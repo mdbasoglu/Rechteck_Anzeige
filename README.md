@@ -1,1 +1,0 @@
-# Rechteck_Anzeige

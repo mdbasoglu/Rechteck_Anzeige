@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40f20ba7-1e06-467c-97ad-4012faad01d5": {
+      "ProjectGuid": "40f20ba7-1e06-467c-97ad-4012faad01d5",
+      "DisplayName": "H03_Rechteck_GUI",
+      "ColorIndex": 0
+    },
+    "d77ba7b1-11a0-4b19-85f3-d627fbb036fb": {
+      "ProjectGuid": "d77ba7b1-11a0-4b19-85f3-d627fbb036fb",
+      "DisplayName": "H03_Rechteck_Logik",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,87 @@
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csproj.AssemblyReference.cache
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI_MarkupCompile.cache
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI_MarkupCompile.lref
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.deps.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.runtimeconfig.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.runtimeconfig.dev.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.exe
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.exe
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.deps.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.runtimeconfig.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.runtimeconfig.dev.json
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\ref\H03_Rechteck_GUI.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.pdb
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.pdb
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.g.resources
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.AssemblyInfoInputs.cache
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.AssemblyInfo.cs
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csproj.CopyComplete
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\ref\H03_Rechteck_GUI.dll
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.pdb
+C:\Users\Justin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.deps.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.runtimeconfig.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.exe
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.exe
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.deps.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.runtimeconfig.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\ref\H03_Rechteck_GUI.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.pdb
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.pdb
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI_MarkupCompile.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI_MarkupCompile.lref
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.g.resources
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csproj.CopyComplete
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\ref\H03_Rechteck_GUI.dll
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.pdb
+C:\Users\Admin\OneDrive - bib & FHDW\Unterricht\SCC\BCH\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.genruntimeconfig.cache
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.deps.json
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.runtimeconfig.json
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.runtimeconfig.dev.json
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.exe
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.exe
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.deps.json
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.runtimeconfig.json
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.runtimeconfig.dev.json
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.dll
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\ref\H03_Rechteck_GUI.dll
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_GUI.pdb
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.dll
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\bin\Debug\net5.0-windows\H03_Rechteck_Logik.pdb
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csproj.AssemblyReference.cache
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI_MarkupCompile.cache
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI_MarkupCompile.lref
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.g.resources
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.AssemblyInfoInputs.cache
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.AssemblyInfo.cs
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csproj.CoreCompileInputs.cache
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.csproj.CopyComplete
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.dll
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\ref\H03_Rechteck_GUI.dll
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.pdb
+C:\Users\mdbas\OneDrive\Desktop\H03_Rechteck_Anzeige\H03_Rechteck_GUI\obj\Debug\net5.0-windows\H03_Rechteck_GUI.genruntimeconfig.cache
